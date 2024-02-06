@@ -1,3 +1,4 @@
+//@Feryel00
 document.addEventListener("DOMContentLoaded", function () {
     const fireworks = document.querySelector('.fireworks');
 
