@@ -8,4 +8,4 @@ L'animation de feu d'artifice est continue, avec de nouvelles particules génér
 
 Ce mini projet démontre l'utilisation de techniques d'animation avancées en CSS et JavaScript pour créer un effet réaliste et dynamique, idéal pour une utilisation sur des sites web ou des applications pour ajouter une touche festive et attrayante.
 
-Feryel ;)
+@Feryel00 ;)
