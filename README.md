@@ -1,11 +1,11 @@
-Ce mini projet consiste en la création d'un effet de feu d'artifice réaliste à l'aide de HTML, CSS et JavaScript. L'objectif est de simuler l'apparition continue de feux d'artifice à l'écran, créant ainsi une animation dynamique et attrayante.
+This mini project involves creating a realistic firework effect using HTML, CSS, and JavaScript. The objective is to continuously simulate fireworks on the screen, creating a dynamic and attractive animation.
 
-Dans ce projet, nous utilisons HTML pour créer une structure de base, CSS pour styliser les particules du feu d'artifice et JavaScript pour générer dynamiquement les particules et contrôler leur mouvement et leur apparence.
+In this project, we use HTML to create a basic structure, CSS to style the firework particles, and JavaScript to dynamically generate the particles and control their movement and appearance.
 
-Chaque particule du feu d'artifice est représentée par un petit cercle coloré qui apparaît à des positions aléatoires sur l'écran et se déplace verticalement vers le haut en diminuant progressivement sa taille et son opacité, créant ainsi l'effet d'une explosion de feu d'artifice.
+Each firework particle is represented by a small colored circle that appears at random positions on the screen and moves vertically upwards while gradually decreasing in size and opacity, thus creating the effect of a firework explosion.
 
-L'animation de feu d'artifice est continue, avec de nouvelles particules générées à intervalles aléatoires, ce qui donne l'impression d'un feu d'artifice sans fin et crée une expérience visuelle immersive.
+The firework animation is continuous, with new particles generated at random intervals, giving the impression of an endless firework display and creating an immersive visual experience.
 
-Ce mini projet démontre l'utilisation de techniques d'animation avancées en CSS et JavaScript pour créer un effet réaliste et dynamique, idéal pour une utilisation sur des sites web ou des applications pour ajouter une touche festive et attrayante.
+This mini project demonstrates the use of advanced animation techniques in CSS and JavaScript to create a realistic and dynamic effect, ideal for use on websites or applications to add a festive and attractive touch.
 
 @Feryel00 ;)
